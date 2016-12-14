@@ -1,0 +1,6 @@
+pandas
+BeautifulSoup4
+urllib3
+nltk
+jieba
+zhon
